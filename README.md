@@ -1,1 +1,12 @@
 # CS-250
+The Short Essay below addresses the following prompts:
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+What does it mean to be a good team member in software development?
+
+Interpreting user needs is a fundamental aspect of successful software development. The process begins with understanding the problem the user is facing and the goals they want to achieve. This involves engaging in active listening, asking clarifying questions, and observing user behavior to uncover both explicit and implicit needs. Once these needs are understood, they must be translated into functional and non-functional requirements that will guide the development process. Implementing user needs into a program requires breaking down the requirements into smaller, manageable tasks. This is where creating “user stories” comes into play. A user story is a brief, simple description of a feature from the perspective of the user. It typically follows the format: "As a [type of user], I want [an action] so that [a benefit/a goal is achieved]." For example, "As a student driver, I want to take practice exams online so that I can prepare for my driving test." 
+
+When I approach program development, I think it’s essential to start with a clear understanding of the project’s objectives and the context in which the software will be used. This involves analyzing user needs, technical requirements, and any constraints such as time, budget, and resources. Once the foundation is laid, I like to follow a structured development process, often incorporating Agile methodologies including the Scrum framework.
+
+I think that being a good team member means being communicative, but it also it involves a combination of technical skills, communication, collaboration, and a shared commitment to the team's goals. Good communication ensures that everyone is on the same page and that potential issues are addressed before they become problems. A collaborative team environment fosters creativity and innovation, leading to better software. And finally, a good team member is committed to delivering high-quality work. This includes writing clean, maintainable code and comments, thoroughly testing features, and being mindful of the user’s experience and desired features.
